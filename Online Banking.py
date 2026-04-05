@@ -1,3 +1,5 @@
+# Password is '12345678'
+
 import os
 import time
 
